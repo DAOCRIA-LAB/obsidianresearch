@@ -1,1 +1,1 @@
-# obsidianresearch
+# obsidian research
